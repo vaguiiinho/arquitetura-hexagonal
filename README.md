@@ -16,7 +16,6 @@ usar postman para as requisições
 - create
 - get
 - enable
-- disable
 
 
 cli:
